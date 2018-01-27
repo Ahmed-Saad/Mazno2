@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "330472503899",
+    "firebase_url": "https://mazno2-deda5.firebaseio.com",
+    "project_id": "mazno2-deda5",
+    "storage_bucket": "mazno2-deda5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330472503899:android:d32c6b95c37bc01f",
+        "android_client_info": {
+          "package_name": "com.softkey.mazno2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330472503899-rnerpq8mnf7pmuvgcpi8grf17b6o082b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.softkey.mazno2",
+            "certificate_hash": "6dd478c1eb4b302e72492fd1ca7fb0de4961bd7e"
+          }
+        },
+        {
+          "client_id": "330472503899-17bn7j0c5ng8p3aeejgaimajcgpl162n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCduJzA-6rjxyNEm7Yripp-qJwO7nOvkJo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330472503899-17bn7j0c5ng8p3aeejgaimajcgpl162n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

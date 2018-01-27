@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mazno2</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_my_maps">Map</string>
+    <string name="navigation_btn">Navigate</string>
+    <string name="distance">Distance</string>
+    <string name="eta">ETA</string>
+</resources>
